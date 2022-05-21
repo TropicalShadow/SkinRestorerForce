@@ -1,0 +1,5 @@
+name: SkinRestorerForce
+main: me.tropicalshadow.skinrestorerforce.SkinRestorerForce
+version: @version@
+api-version: 1.18
+depend: ["SkinsRestorer","PlaceholderAPI"]
